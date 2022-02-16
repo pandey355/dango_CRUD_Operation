@@ -1,0 +1,6 @@
+step1 : start project  "django-admin startproject employee_Project"
+
+step2 : create app     "python manage.py startapp employee_register
+
+step3 : check the project  "python manage.py runserver"
+
